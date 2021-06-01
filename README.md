@@ -1,0 +1,1 @@
+# Template pour un projet django minimal
